@@ -17,4 +17,4 @@ let media = parseInt(prompt('quais 3 numeros para achar a media?'))
 let medias = function(){
     return (media)/3;
 }
-console.log(media);
+console.log(medias);
