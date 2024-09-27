@@ -1,6 +1,6 @@
  var butt = document.getElementsByName('butt')
 function gay(){
-    alert(caguei);
+    alert('caguei');
  }
 
 function soma(num1,num2){
