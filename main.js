@@ -1,5 +1,7 @@
-document.querySelector('butt')
-butt.onclick
+ const butt = document.getElementsByName('butt')
+ butt.onclick = function(){
+    alert(caguei);
+ }
 
 function soma(num1,num2){
     return num1 + num2;
