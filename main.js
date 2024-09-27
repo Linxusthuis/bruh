@@ -13,8 +13,8 @@ function quadrado(lado){
     return lado**2;
 }
 console.log(quadrado(6));
-
-let media = function(num1,num2,num3){
-    return (num1+num2+num3)/3;
+let media = parseInt(prompt('quais 3 numeros para achar a media?'))
+let medias = function(){
+    return (media)/3;
 }
 console.log(media(1,2,3));
