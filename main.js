@@ -1,4 +1,4 @@
- const butt = document.getElementsByName('butt')
+ var butt = document.getElementsByName('butt')
  butt.onclick = function(){
     alert(caguei);
  }
