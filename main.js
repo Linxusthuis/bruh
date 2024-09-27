@@ -1,5 +1,5 @@
  var butt = document.getElementsByName('butt')
- butt.onclick = function(){
+function gay(){
     alert(caguei);
  }
 
